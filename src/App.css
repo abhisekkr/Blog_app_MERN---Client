@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+}
+
+.btn {
+	background: unset;
+	border: none;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-family: "Roboto";
+	cursor: pointer;
+	opacity: 0.8;
+}
