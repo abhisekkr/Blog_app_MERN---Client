@@ -2,6 +2,7 @@ import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { Box } from "@material-ui/core";
 import { Toaster } from "react-hot-toast";
+//components
 import Header from "./components/header/Header";
 import Home from "./components/home/Home";
 import CreateView from "./components/blog/CreateView.jsx";

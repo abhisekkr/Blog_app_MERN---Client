@@ -16,7 +16,7 @@ function Posts() {
 		};
 		fetchData();
 	}, [search]);
-	console.log(posts);
+
 	return (
 		<>
 			{posts.length === 0 ? (

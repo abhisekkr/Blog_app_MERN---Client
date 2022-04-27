@@ -3,7 +3,6 @@ import Banner from "../banner/Banner";
 import HomeCategories from "./HomeCategories";
 import Posts from "../blogCard/Posts";
 import { Grid } from "@material-ui/core";
-import NotFound from "../error/NotFound";
 
 function Home() {
 	return (
